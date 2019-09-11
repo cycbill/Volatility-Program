@@ -1,2 +1,3 @@
-Code for Final Project
-Adapted Log Invert Moneyness Model for FX Volatility Interpolation
+Code for Final Project -
+
+FX Volatility Interpolation with Adapted Log Invert Moneyness Abscissa
